@@ -10,7 +10,6 @@ public class occurence {
     }
     public static void main(String[] args) {
         int arr[] = {2,4, 2, 6, 7, 6, 1, 9};
-        System.out.println(isFind(arr, 0, 7 ));
-
+        System.out.println(isFind(arr, 0, 7));
     }
 }
